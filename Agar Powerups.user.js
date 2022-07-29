@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         Agar.io Powerups UNEDIT
+// @name         Agar.io Powerups
 // @namespace    A.Powerups
 // @version      1.0
-// @description  A.Powerups by Neel06
+// @description  An Agar.io Mod that adds many features to the game to make it more interesting which includes (Custom Color visuals, Background Sectos with border, Minimap, Many Hotkeys for splits, New private mode etc)
 // @author       Neel06
 // @match        *://agar.io/*
 // @icon         https://i.imgur.com/hpXnZOy.png
