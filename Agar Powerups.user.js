@@ -1,12 +1,14 @@
 // ==UserScript==
-// @name         Agar.io Powerups
-// @namespace    Agar.Powerups
+// @name         Agar.io Powerups UNEDIT
+// @namespace    A.Powerups
 // @version      1.0
-// @description  This Agar.io Mod contains many modifications which includes (Background Sectors, Minimap, Custom Colors, any toggle options to show and hide, Transparent Cells, Direct Server Connection)
+// @description  A.Powerups by Neel06
 // @author       Neel06
 // @match        *://agar.io/*
 // @icon         https://i.imgur.com/hpXnZOy.png
 // @run-at       document-start
+// @updateURL	 https://github.com/Neel064/AgarPowerups/raw/main/Agar%20Powerups.user.js
+// @downloadURL  https://github.com/Neel064/AgarPowerups/raw/main/Agar%20Powerups.user.js
 // @grant        GM.xmlHttpRequest
 // @grant        GM.registerMenuCommand
 // @grant        window.close
