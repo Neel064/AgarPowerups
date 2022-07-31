@@ -8,7 +8,6 @@
 // @icon         https://i.imgur.com/hpXnZOy.png
 // @run-at       document-start
 // @updateURL	   https://github.com/Neel064/AgarPowerups/raw/main/Agar%20Powerups.user.js
-// @downloadURL  https://github.com/Neel064/AgarPowerups/raw/main/Agar%20Powerups.user.js
 // @grant        GM.xmlHttpRequest
 // @grant        GM.registerMenuCommand
 // @grant        window.close
